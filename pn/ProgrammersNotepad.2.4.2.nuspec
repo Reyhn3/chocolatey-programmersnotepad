@@ -9,7 +9,7 @@
     <authors>Simon Steele</authors>
     <projectUrl>http://www.pnotepad.org/</projectUrl>
     <projectSourceUrl>https://github.com/simonsteele/pn</projectSourceUrl>
-    <projectSourceUrl>https://github.com/Reyhn3/chocolatey-programmersnotepad</projectSourceUrl>
+    <packageSourceUrl>https://github.com/Reyhn3/chocolatey-programmersnotepad</packageSourceUrl>
     <iconUrl>http://fc03.deviantart.net/fs51/i/2009/302/4/7/Programmer__s_Notepad_Hi_Res_by_brainwipe.png</iconUrl>
     <copyright>2002-2016 Simon Steele</copyright>
     <licenseUrl>http://www.pnotepad.org/pn-license/</licenseUrl>
