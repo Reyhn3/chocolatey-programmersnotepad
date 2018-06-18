@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>programmersnotepad</id>
+    <version>2.4.2</version>
+    <owners>Reyhn</owners>
+    <title>Programmer's Notepad</title>
+    <authors>Simon Steele</authors>
+    <projectUrl>http://www.pnotepad.org/</projectUrl>
+    <projectSourceUrl>https://github.com/simonsteele/pn</projectSourceUrl>
+    <projectSourceUrl>https://github.com/Reyhn3/chocolatey-programmersnotepad</projectSourceUrl>
+    <iconUrl>http://fc03.deviantart.net/fs51/i/2009/302/4/7/Programmer__s_Notepad_Hi_Res_by_brainwipe.png</iconUrl>
+    <copyright>2002-2016 Simon Steele</copyright>
+    <licenseUrl>http://www.pnotepad.org/pn-license/</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>editor programmer programmers notepad text</tags>
+    <summary>Programmer's Notepad is a fast, lightweight text editor for Windows.</summary>
+    <description>Programmer's Notepad - a Windows programming editor with an integrated hex viewer/editor.</description>
+    <dependencies>
+      <dependency id="programmersnotepad.install" version="[2.4.2]" />
+    </dependencies>
+  </metadata>
+  <files>
+  </files>
+</package>
