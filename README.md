@@ -1,0 +1,1 @@
+The package source for the [chocolatey](https://chocolatey.org/) package [Programmer's Notepad](https://chocolatey.org/packages/ProgrammersNotepad/).
